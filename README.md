@@ -60,7 +60,11 @@ The you have to install the required python dependencies
 pip3 install -r requirements.txt
 
 ```
+Lastly, you have to create a folder called addresses:
+```sh
+mkdir addresses
 
+```
   
 
 <!-- USAGE EXAMPLES -->
