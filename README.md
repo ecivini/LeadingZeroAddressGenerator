@@ -74,13 +74,13 @@ mkdir addresses
 In order to start the script you have specify the number of leading zero you want and the minimum number of zeroes you want in order to store the private key. 
 ```sh
 
-pip3 generator.py <optimal> <minimum>
+python3 generator.py <optimal> <minimum>
 
 ```
 For example, I wanted to generate an address with 7 leading zeroes but I decided to store the private keys of any address with 4 leading zeroes. To do so I execute this command:
 ```sh
 
-pip3 generator.py 7 4
+python3 generator.py 7 4
 
 ```
   
